@@ -1,10 +1,7 @@
-# Adhunika-Ecom-platform
-An Ecommerce platform for Adhunika Shop in Kalna
-
-<img src="./frontend/public/Banner.jpg" alt="Website Banner">
+An Ecommerce platform for mobile covers MobiSkins
 
 <h3>You can also visit the live website from the link below and play with the beta version</h3>
-<h2>👉 <a href="https://adhunika-ecom-platform.onrender.com/" target="_blank">Adhunika E-Com</a></h2>
+<h2>👉 <a href="" target="_blank">Adhunika E-Com</a></h2>
 
 ## Features
 
