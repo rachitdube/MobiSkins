@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99d7a22a.css",
+    "main.js": "/static/js/main.edf862fd.js",
+    "static/media/MobiSkins.png": "/static/media/MobiSkins.d9e8cc0ff7bf565f57aa.png",
+    "index.html": "/index.html",
+    "main.99d7a22a.css.map": "/static/css/main.99d7a22a.css.map",
+    "main.edf862fd.js.map": "/static/js/main.edf862fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99d7a22a.css",
+    "static/js/main.edf862fd.js"
+  ]
+}
